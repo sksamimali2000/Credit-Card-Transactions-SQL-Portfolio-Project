@@ -1,6 +1,6 @@
 # 💳 Credit Card Transactions SQL Portfolio Project
 
-This project demonstrates SQL data exploration and analytics on a real-world credit card transactions dataset from Kaggle. The goal is to import the dataset into SQL Server, clean and optimize it, then solve analytical business problems using SQL queries.
+This project demonstrates SQL data exploration and analytics on a real-world credit card transactions dataset from Kaggle. The goal is to import the dataset into SQL Server, clean and optimize it, then solve analytical business problems using SQL queries
 
 ---
 
